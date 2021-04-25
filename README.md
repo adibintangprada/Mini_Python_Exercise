@@ -9,5 +9,5 @@ Reverses the string without affecting special characters and numbers. (Use For L
 ![link_text](https://github.com/adibintangprada/Mini_Python_Exercise/blob/main/No.%206.jpg)
 
 ### No. 7
-Imagine that you take all the numbers between 0 and n and concatenate them into a long string. How many digits are there between 0 and n? Write a function that can calculate this. There are 0 digits between 0 and 1, there are 9 digits between 0 and 10 and there are 189 digits between 0 and 100. Output:
+Imagine that you take all the numbers between 0 and n and concatenate them into a long string. How many digits are there between 0 and n? Write a function that can calculate this. There are 0 digits between 0 and 1, there are 9 digits between 0 and 10 and there are 189 digits between 0 and 100.
 ![link_text](https://github.com/adibintangprada/Mini_Python_Exercise/blob/main/No.%207.png)
