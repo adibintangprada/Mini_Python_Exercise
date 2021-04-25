@@ -1,4 +1,4 @@
-# Mini_Python_Exercise
+# Mini Python Exercise
 These are mini exercise for python practice. You can use these exercise to improve your skills in Python.
 
 ## Overview
